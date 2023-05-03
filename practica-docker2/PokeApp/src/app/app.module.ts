@@ -11,6 +11,12 @@ import { PokeTableComponent } from './components/poke-table/poke-table.component
 import { PokeDetailComponent } from './components/poke-detail/poke-detail.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FooterComponent } from './components/footer/footer.component';
+import { PruebaComponent } from './components/prueba/prueba.component';
+import { ServicioComponent } from './services/servicio/servicio.component';
+import { PokemonservicioComponent } from './services/pokemonservicio/pokemonservicio.component';
+import { PrincipalComponent } from './interfaces/principal/principal.component';
+import { FuncionComponent } from './pipe/funcion/funcion.component';
+import { ClaseprincipalComponent } from './clases/claseprincipal/claseprincipal.component';
 
 
 
@@ -20,7 +26,13 @@ import { FooterComponent } from './components/footer/footer.component';
     HeaderComponent,
     PokeTableComponent,
     PokeDetailComponent,
-    FooterComponent
+    FooterComponent,
+    PruebaComponent,
+    ServicioComponent,
+    PokemonservicioComponent,
+    PrincipalComponent,
+    FuncionComponent,
+    ClaseprincipalComponent
   ],
   imports: [
     BrowserModule,

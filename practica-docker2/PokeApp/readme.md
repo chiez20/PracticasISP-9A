@@ -26,3 +26,16 @@ Dockerizamos y vemos las funcionalidades
 <img src="src/assets/images/resultadopagina.jpg" height="700em" />
 
 <img src="src/assets/images/detalle.jpg" height="700em" />
+
+Funcionalidades a traves del CLI 
+
+<img src="src/assets/images/funcionalidadcli1.jpg" height="700em" />
+
+<img src="src/assets/images/funcionalidadcli2.jpg" height="700em" />
+
+<img src="src/assets/images/funcionalidadcli3.jpg" height="700em" />
+
+<img src="src/assets/images/funcionalidadcli4.jpg" height="700em" />
+
+<img src="src/assets/images/funcionalidadcli5.jpg" height="700em" />
+
